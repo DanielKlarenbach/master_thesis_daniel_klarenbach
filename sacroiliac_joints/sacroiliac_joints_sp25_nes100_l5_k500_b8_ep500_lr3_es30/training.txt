@@ -1,0 +1,11 @@
+Getting the size of nii images from: 273_0000.nii.gz
+Size of images: from the 273_0000.nii.gz: (480, 480)
+Started preprocessing dataset
+Number of training samples: 432
+Number of validation samples: 123
+Number of testing samples: 61
+Number of avaiable cuda devices: 8
+Using cuda device
+0
+Epoch 1
+-------------------------------

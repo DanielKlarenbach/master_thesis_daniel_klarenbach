@@ -1,0 +1,262 @@
+Getting the size of nii images from: liver_146.nii.gz
+Size of images: from the liver_146.nii.gz: (512, 512)
+Started preprocessing dataset
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_146.nii.gz, shape: (512, 512, 197)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_74.nii.gz, shape: (512, 512, 107)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_119.nii.gz, shape: (512, 512, 461)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_19.nii.gz, shape: (512, 512, 547)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_18.nii.gz, shape: (512, 512, 845)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_154.nii.gz, shape: (512, 512, 225)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_176.nii.gz, shape: (512, 512, 124)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_165.nii.gz, shape: (512, 512, 465)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_162.nii.gz, shape: (512, 512, 903)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_178.nii.gz, shape: (512, 512, 565)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_128.nii.gz, shape: (512, 512, 654)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_77.nii.gz, shape: (512, 512, 94)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_170.nii.gz, shape: (512, 512, 55)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_125.nii.gz, shape: (512, 512, 410)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_97.nii.gz, shape: (512, 512, 671)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_151.nii.gz, shape: (512, 512, 112)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_198.nii.gz, shape: (512, 512, 537)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_132.nii.gz, shape: (512, 512, 163)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_141.nii.gz, shape: (512, 512, 971)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_200.nii.gz, shape: (512, 512, 120)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_39.nii.gz, shape: (512, 512, 260)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_60.nii.gz, shape: (512, 512, 244)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_29.nii.gz, shape: (512, 512, 172)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_98.nii.gz, shape: (512, 512, 645)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_140.nii.gz, shape: (512, 512, 97)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_7.nii.gz, shape: (512, 512, 541)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_160.nii.gz, shape: (512, 512, 947)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_78.nii.gz, shape: (512, 512, 198)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_1.nii.gz, shape: (512, 512, 123)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_110.nii.gz, shape: (512, 512, 816)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_168.nii.gz, shape: (512, 512, 694)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_139.nii.gz, shape: (512, 512, 147)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_14.nii.gz, shape: (512, 512, 588)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_16.nii.gz, shape: (512, 512, 689)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_120.nii.gz, shape: (512, 512, 424)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_55.nii.gz, shape: (512, 512, 192)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_92.nii.gz, shape: (512, 512, 836)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_126.nii.gz, shape: (512, 512, 401)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_123.nii.gz, shape: (512, 512, 432)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_5.nii.gz, shape: (512, 512, 537)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_161.nii.gz, shape: (512, 512, 947)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_66.nii.gz, shape: (512, 512, 86)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_81.nii.gz, shape: (512, 512, 343)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_192.nii.gz, shape: (512, 512, 469)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_95.nii.gz, shape: (512, 512, 841)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_90.nii.gz, shape: (512, 512, 751)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_17.nii.gz, shape: (512, 512, 826)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_87.nii.gz, shape: (512, 512, 896)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_111.nii.gz, shape: (512, 512, 761)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_65.nii.gz, shape: (512, 512, 513)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_173.nii.gz, shape: (512, 512, 419)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_177.nii.gz, shape: (512, 512, 217)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_169.nii.gz, shape: (512, 512, 42)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_47.nii.gz, shape: (512, 512, 225)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_105.nii.gz, shape: (512, 512, 986)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_102.nii.gz, shape: (512, 512, 677)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_91.nii.gz, shape: (512, 512, 751)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_3.nii.gz, shape: (512, 512, 534)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_48.nii.gz, shape: (512, 512, 244)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_28.nii.gz, shape: (512, 512, 129)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_25.nii.gz, shape: (512, 512, 601)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_113.nii.gz, shape: (512, 512, 836)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_36.nii.gz, shape: (512, 512, 111)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_89.nii.gz, shape: (512, 512, 766)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_82.nii.gz, shape: (512, 512, 519)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_62.nii.gz, shape: (512, 512, 188)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_27.nii.gz, shape: (512, 512, 861)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_122.nii.gz, shape: (512, 512, 422)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_59.nii.gz, shape: (512, 512, 216)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_75.nii.gz, shape: (512, 512, 89)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_61.nii.gz, shape: (512, 512, 193)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_164.nii.gz, shape: (512, 512, 997)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_117.nii.gz, shape: (512, 512, 836)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_133.nii.gz, shape: (512, 512, 249)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_2.nii.gz, shape: (512, 512, 517)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_72.nii.gz, shape: (512, 512, 93)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_179.nii.gz, shape: (512, 512, 610)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_24.nii.gz, shape: (512, 512, 276)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_185.nii.gz, shape: (512, 512, 629)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_44.nii.gz, shape: (512, 512, 119)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_153.nii.gz, shape: (512, 512, 76)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_15.nii.gz, shape: (512, 512, 565)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_195.nii.gz, shape: (512, 512, 314)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_145.nii.gz, shape: (512, 512, 209)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_147.nii.gz, shape: (512, 512, 87)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_54.nii.gz, shape: (512, 512, 96)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_83.nii.gz, shape: (512, 512, 871)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_0.nii.gz, shape: (512, 512, 75)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_103.nii.gz, shape: (512, 512, 683)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_114.nii.gz, shape: (512, 512, 846)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_57.nii.gz, shape: (512, 512, 366)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_136.nii.gz, shape: (512, 512, 97)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_43.nii.gz, shape: (512, 512, 155)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_42.nii.gz, shape: (512, 512, 125)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_116.nii.gz, shape: (512, 512, 908)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_135.nii.gz, shape: (512, 512, 208)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_157.nii.gz, shape: (512, 512, 760)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_109.nii.gz, shape: (512, 512, 756)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_197.nii.gz, shape: (512, 512, 335)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_186.nii.gz, shape: (512, 512, 309)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_33.nii.gz, shape: (512, 512, 135)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_53.nii.gz, shape: (512, 512, 105)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_26.nii.gz, shape: (512, 512, 668)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_93.nii.gz, shape: (512, 512, 696)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_138.nii.gz, shape: (512, 512, 89)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_6.nii.gz, shape: (512, 512, 518)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_52.nii.gz, shape: (512, 512, 237)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_118.nii.gz, shape: (512, 512, 427)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_94.nii.gz, shape: (512, 512, 917)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_175.nii.gz, shape: (512, 512, 433)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_142.nii.gz, shape: (512, 512, 180)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_127.nii.gz, shape: (512, 512, 987)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_196.nii.gz, shape: (512, 512, 323)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_58.nii.gz, shape: (512, 512, 212)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_158.nii.gz, shape: (512, 512, 659)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_121.nii.gz, shape: (512, 512, 463)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_73.nii.gz, shape: (512, 512, 121)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_85.nii.gz, shape: (512, 512, 630)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_64.nii.gz, shape: (512, 512, 230)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_144.nii.gz, shape: (512, 512, 267)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_143.nii.gz, shape: (512, 512, 84)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_180.nii.gz, shape: (512, 512, 357)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_35.nii.gz, shape: (512, 512, 124)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_101.nii.gz, shape: (512, 512, 683)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_130.nii.gz, shape: (512, 512, 624)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_99.nii.gz, shape: (512, 512, 629)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_49.nii.gz, shape: (512, 512, 254)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_8.nii.gz, shape: (512, 512, 541)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_50.nii.gz, shape: (512, 512, 240)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_69.nii.gz, shape: (512, 512, 245)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_46.nii.gz, shape: (512, 512, 124)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_112.nii.gz, shape: (512, 512, 751)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_184.nii.gz, shape: (512, 512, 627)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_11.nii.gz, shape: (512, 512, 466)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_100.nii.gz, shape: (512, 512, 685)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_37.nii.gz, shape: (512, 512, 122)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_30.nii.gz, shape: (512, 512, 200)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_4.nii.gz, shape: (512, 512, 841)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_115.nii.gz, shape: (512, 512, 846)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_22.nii.gz, shape: (512, 512, 247)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_108.nii.gz, shape: (512, 512, 856)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_23.nii.gz, shape: (512, 512, 391)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_167.nii.gz, shape: (512, 512, 1026)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_106.nii.gz, shape: (512, 512, 771)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_171.nii.gz, shape: (512, 512, 130)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_45.nii.gz, shape: (512, 512, 74)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_201.nii.gz, shape: (512, 512, 186)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_13.nii.gz, shape: (512, 512, 605)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_159.nii.gz, shape: (512, 512, 668)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_34.nii.gz, shape: (512, 512, 151)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_63.nii.gz, shape: (512, 512, 104)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_148.nii.gz, shape: (512, 512, 85)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_181.nii.gz, shape: (512, 512, 584)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_183.nii.gz, shape: (512, 512, 715)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_152.nii.gz, shape: (512, 512, 89)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_104.nii.gz, shape: (512, 512, 781)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_107.nii.gz, shape: (512, 512, 771)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_96.nii.gz, shape: (512, 512, 722)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_174.nii.gz, shape: (512, 512, 269)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_193.nii.gz, shape: (512, 512, 741)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_40.nii.gz, shape: (512, 512, 122)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_189.nii.gz, shape: (512, 512, 818)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_172.nii.gz, shape: (512, 512, 131)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_79.nii.gz, shape: (512, 512, 147)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_182.nii.gz, shape: (512, 512, 784)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_9.nii.gz, shape: (512, 512, 549)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_188.nii.gz, shape: (512, 512, 176)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_76.nii.gz, shape: (512, 512, 168)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_12.nii.gz, shape: (512, 512, 455)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_88.nii.gz, shape: (512, 512, 811)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_137.nii.gz, shape: (512, 512, 107)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_67.nii.gz, shape: (512, 512, 165)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_56.nii.gz, shape: (512, 512, 239)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_68.nii.gz, shape: (512, 512, 266)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_84.nii.gz, shape: (512, 512, 733)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_10.nii.gz, shape: (512, 512, 501)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_41.nii.gz, shape: (512, 512, 113)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_31.nii.gz, shape: (512, 512, 91)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_124.nii.gz, shape: (512, 512, 407)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_20.nii.gz, shape: (512, 512, 574)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_156.nii.gz, shape: (512, 512, 820)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_134.nii.gz, shape: (512, 512, 205)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_129.nii.gz, shape: (512, 512, 338)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_51.nii.gz, shape: (512, 512, 227)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_86.nii.gz, shape: (512, 512, 647)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_38.nii.gz, shape: (512, 512, 132)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_70.nii.gz, shape: (512, 512, 333)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_155.nii.gz, shape: (512, 512, 271)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_191.nii.gz, shape: (512, 512, 300)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_71.nii.gz, shape: (512, 512, 94)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_190.nii.gz, shape: (512, 512, 839)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_163.nii.gz, shape: (512, 512, 472)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_199.nii.gz, shape: (512, 512, 84)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_32.nii.gz, shape: (512, 512, 139)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_149.nii.gz, shape: (512, 512, 98)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_194.nii.gz, shape: (512, 512, 321)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_21.nii.gz, shape: (512, 512, 437)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_150.nii.gz, shape: (512, 512, 89)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_80.nii.gz, shape: (512, 512, 217)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/livers/25/raw/liver_166.nii.gz, shape: (512, 512, 206)
+Number of images: 85167
+Image size: 512 x 512
+Grayscaled 85167 images
+Resized 85167 images
+Processed 0/85167 of resized images
+Processed 30/85167 of resized images
+Processed 60/85167 of resized images
+Processed 90/85167 of resized images
+Processed 120/85167 of resized images
+Processed 150/85167 of resized images
+Processed 180/85167 of resized images
+Processed 210/85167 of resized images
+Processed 240/85167 of resized images
+Processed 270/85167 of resized images
+Processed 300/85167 of resized images
+Processed 330/85167 of resized images
+Processed 360/85167 of resized images
+Processed 390/85167 of resized images
+Processed 420/85167 of resized images
+Processed 450/85167 of resized images
+Processed 480/85167 of resized images
+Processed 510/85167 of resized images
+Processed 540/85167 of resized images
+Processed 570/85167 of resized images
+Processed 600/85167 of resized images
+Processed 630/85167 of resized images
+Processed 660/85167 of resized images
+Processed 690/85167 of resized images
+Processed 720/85167 of resized images
+Processed 750/85167 of resized images
+Processed 780/85167 of resized images
+Processed 810/85167 of resized images
+Processed 840/85167 of resized images
+Processed 870/85167 of resized images
+Processed 900/85167 of resized images
+Processed 930/85167 of resized images
+Processed 960/85167 of resized images
+Processed 990/85167 of resized images
+Processed 1020/85167 of resized images
+Processed 1050/85167 of resized images
+Processed 1080/85167 of resized images
+Processed 1110/85167 of resized images
+Processed 1140/85167 of resized images
+Processed 1170/85167 of resized images
+Processed 1200/85167 of resized images
+Processed 1230/85167 of resized images
+Processed 1260/85167 of resized images
+Processed 1290/85167 of resized images
+Processed 1320/85167 of resized images
+Processed 1350/85167 of resized images
+Processed 1380/85167 of resized images
+Processed 1410/85167 of resized images
+Processed 1440/85167 of resized images
+Processed 1470/85167 of resized images
+Processed 1500/85167 of resized images
+Processed 1530/85167 of resized images
+Processed 1560/85167 of resized images
+Processed 1590/85167 of resized images
+Processed 1620/85167 of resized images

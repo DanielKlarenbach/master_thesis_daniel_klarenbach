@@ -1,0 +1,151 @@
+Getting the size of nii images from: la_008.nii.gz
+Size of images: from the la_008.nii.gz: (320, 320)
+Started preprocessing dataset
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_008.nii.gz, shape: (320, 320, 110)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_011.nii.gz, shape: (320, 320, 120)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_024.nii.gz, shape: (320, 320, 120)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_020.nii.gz, shape: (320, 320, 110)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_015.nii.gz, shape: (320, 320, 100)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_029.nii.gz, shape: (320, 320, 109)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_016.nii.gz, shape: (320, 320, 90)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_004.nii.gz, shape: (320, 320, 110)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_028.nii.gz, shape: (320, 320, 110)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_003.nii.gz, shape: (320, 320, 130)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_030.nii.gz, shape: (320, 320, 110)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_027.nii.gz, shape: (320, 320, 100)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_010.nii.gz, shape: (320, 320, 120)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_025.nii.gz, shape: (320, 320, 120)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_026.nii.gz, shape: (320, 320, 120)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_018.nii.gz, shape: (320, 320, 122)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_013.nii.gz, shape: (320, 320, 120)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_012.nii.gz, shape: (320, 320, 137)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_022.nii.gz, shape: (320, 320, 110)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_017.nii.gz, shape: (320, 320, 120)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_005.nii.gz, shape: (320, 320, 120)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_023.nii.gz, shape: (320, 320, 110)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_002.nii.gz, shape: (320, 320, 140)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_019.nii.gz, shape: (320, 320, 100)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_021.nii.gz, shape: (320, 320, 100)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_014.nii.gz, shape: (320, 320, 120)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_009.nii.gz, shape: (320, 320, 100)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/hearts/500/raw/la_007.nii.gz, shape: (320, 320, 130)
+Number of images: 3208
+Image size: 320 x 320
+Grayscaled 3208 images
+Resized 3208 images
+Processed 0/3208 of resized images
+Processed 30/3208 of resized images
+Processed 60/3208 of resized images
+Processed 90/3208 of resized images
+Processed 120/3208 of resized images
+Processed 150/3208 of resized images
+Processed 180/3208 of resized images
+Processed 210/3208 of resized images
+Processed 240/3208 of resized images
+Processed 270/3208 of resized images
+Processed 300/3208 of resized images
+Processed 330/3208 of resized images
+Processed 360/3208 of resized images
+Processed 390/3208 of resized images
+Processed 420/3208 of resized images
+Processed 450/3208 of resized images
+Processed 480/3208 of resized images
+Processed 510/3208 of resized images
+Processed 540/3208 of resized images
+Processed 570/3208 of resized images
+Processed 600/3208 of resized images
+Processed 630/3208 of resized images
+Processed 660/3208 of resized images
+Processed 690/3208 of resized images
+Processed 720/3208 of resized images
+Processed 750/3208 of resized images
+Processed 780/3208 of resized images
+Processed 810/3208 of resized images
+Processed 840/3208 of resized images
+Processed 870/3208 of resized images
+Processed 900/3208 of resized images
+Processed 930/3208 of resized images
+Processed 960/3208 of resized images
+Processed 990/3208 of resized images
+Processed 1020/3208 of resized images
+Processed 1050/3208 of resized images
+Processed 1080/3208 of resized images
+Processed 1110/3208 of resized images
+Processed 1140/3208 of resized images
+Processed 1170/3208 of resized images
+Processed 1200/3208 of resized images
+Processed 1230/3208 of resized images
+Processed 1260/3208 of resized images
+Processed 1290/3208 of resized images
+Processed 1320/3208 of resized images
+Processed 1350/3208 of resized images
+Processed 1380/3208 of resized images
+Processed 1410/3208 of resized images
+Processed 1440/3208 of resized images
+Processed 1470/3208 of resized images
+Processed 1500/3208 of resized images
+Processed 1530/3208 of resized images
+Processed 1560/3208 of resized images
+Processed 1590/3208 of resized images
+Processed 1620/3208 of resized images
+Processed 1650/3208 of resized images
+Processed 1680/3208 of resized images
+Processed 1710/3208 of resized images
+Processed 1740/3208 of resized images
+Processed 1770/3208 of resized images
+Processed 1800/3208 of resized images
+Processed 1830/3208 of resized images
+Processed 1860/3208 of resized images
+Processed 1890/3208 of resized images
+Processed 1920/3208 of resized images
+Processed 1950/3208 of resized images
+Processed 1980/3208 of resized images
+Processed 2010/3208 of resized images
+Processed 2040/3208 of resized images
+Processed 2070/3208 of resized images
+Processed 2100/3208 of resized images
+Processed 2130/3208 of resized images
+Processed 2160/3208 of resized images
+Processed 2190/3208 of resized images
+Processed 2220/3208 of resized images
+Processed 2250/3208 of resized images
+Processed 2280/3208 of resized images
+Processed 2310/3208 of resized images
+Processed 2340/3208 of resized images
+Processed 2370/3208 of resized images
+Processed 2400/3208 of resized images
+Processed 2430/3208 of resized images
+Processed 2460/3208 of resized images
+Processed 2490/3208 of resized images
+Processed 2520/3208 of resized images
+Processed 2550/3208 of resized images
+Processed 2580/3208 of resized images
+Processed 2610/3208 of resized images
+Processed 2640/3208 of resized images
+Processed 2670/3208 of resized images
+Processed 2700/3208 of resized images
+Processed 2730/3208 of resized images
+Processed 2760/3208 of resized images
+Processed 2790/3208 of resized images
+Processed 2820/3208 of resized images
+Processed 2850/3208 of resized images
+Processed 2880/3208 of resized images
+Processed 2910/3208 of resized images
+Processed 2940/3208 of resized images
+Processed 2970/3208 of resized images
+Processed 3000/3208 of resized images
+Processed 3030/3208 of resized images
+Processed 3060/3208 of resized images
+Processed 3090/3208 of resized images
+Processed 3120/3208 of resized images
+Processed 3150/3208 of resized images
+Processed 3180/3208 of resized images
+Transformed to pyg Data object 3208 images
+Number of training samples: 2246
+Number of validation samples: 642
+Number of testing samples: 320
+Number of avaiable cuda devices: 8
+Using cuda device
+0
+Epoch 1
+-------------------------------

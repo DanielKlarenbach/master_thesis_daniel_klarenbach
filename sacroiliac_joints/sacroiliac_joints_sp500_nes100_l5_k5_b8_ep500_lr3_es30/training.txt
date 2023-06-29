@@ -1,0 +1,67 @@
+Getting the size of nii images from: 273_0000.nii.gz
+Size of images: from the 273_0000.nii.gz: (480, 480)
+Started preprocessing dataset
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/273_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/12_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/7_0000.nii.gz, shape: (480, 480, 18)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/280_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/34_0000.nii.gz, shape: (480, 480, 18)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/301_0000.nii.gz, shape: (480, 480, 30)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/78_0000.nii.gz, shape: (480, 480, 18)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/237_0000.nii.gz, shape: (480, 480, 18)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/284_0000.nii.gz, shape: (480, 480, 30)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/248_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/250_0000.nii.gz, shape: (480, 480, 18)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/177_0000.nii.gz, shape: (480, 480, 23)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/37_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/299_0000.nii.gz, shape: (480, 480, 30)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/302_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/29_0000.nii.gz, shape: (480, 480, 18)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/9_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/285_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/293_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/100_0000.nii.gz, shape: (480, 480, 18)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/271_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/258_0000.nii.gz, shape: (480, 480, 19)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/21_0000.nii.gz, shape: (480, 480, 18)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/27_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/22_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/75_0000.nii.gz, shape: (480, 480, 18)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/25_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/4_0000.nii.gz, shape: (480, 480, 18)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/18_0000.nii.gz, shape: (480, 480, 20)
+Processing nii file: /net/tscratch/people/plgdklarenbach/data/sacroiliac_joints/500/raw/282_0000.nii.gz, shape: (480, 480, 24)
+Number of images: 616
+Image size: 480 x 480
+Grayscaled 616 images
+Resized 616 images
+Processed 0/616 of resized images
+Processed 30/616 of resized images
+Processed 60/616 of resized images
+Processed 90/616 of resized images
+Processed 120/616 of resized images
+Processed 150/616 of resized images
+Processed 180/616 of resized images
+Processed 210/616 of resized images
+Processed 240/616 of resized images
+Processed 270/616 of resized images
+Processed 300/616 of resized images
+Processed 330/616 of resized images
+Processed 360/616 of resized images
+Processed 390/616 of resized images
+Processed 420/616 of resized images
+Processed 450/616 of resized images
+Processed 480/616 of resized images
+Processed 510/616 of resized images
+Processed 540/616 of resized images
+Processed 570/616 of resized images
+Processed 600/616 of resized images
+Transformed to pyg Data object 616 images
+Number of training samples: 432
+Number of validation samples: 123
+Number of testing samples: 61
+Number of avaiable cuda devices: 8
+Using cuda device
+0
+Epoch 1
+-------------------------------
