@@ -1,0 +1,19 @@
+Started preprocessing dataset
+Number of training samples: 2040
+Number of validation samples: 582
+Number of testing samples: 291
+Using cuda device
+Model loaded
+tensor(1.5202, device='cuda:0')
+tensor(1.5551, device='cuda:0')
+tensor(1.5088, device='cuda:0')
+tensor(1.5512, device='cuda:0')
+tensor(1.6173, device='cuda:0')
+tensor(1.5564, device='cuda:0')
+tensor(1.6448, device='cuda:0')
+tensor(1.5683, device='cuda:0')
+tensor(1.6743, device='cuda:0')
+tensor(-70.2799, device='cuda:0')
+Test metrics:
+0.8365866801992724 0.0 0.0 0.0 0.0 0.0 2 -7.378383806890638 8.21497052150084
+Done!

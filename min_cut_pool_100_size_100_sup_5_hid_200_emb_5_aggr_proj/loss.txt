@@ -1,0 +1,46 @@
+Started preprocessing dataset
+Number of training samples: 2040
+Number of validation samples: 582
+Number of testing samples: 291
+Using cuda device
+Model loaded
+tensor(-0.1351, device='cuda:0')
+tensor(-0.1337, device='cuda:0')
+tensor(-0.1170, device='cuda:0')
+tensor(-0.1199, device='cuda:0')
+tensor(-0.1085, device='cuda:0')
+tensor(-0.1230, device='cuda:0')
+tensor(-0.1209, device='cuda:0')
+tensor(-0.1043, device='cuda:0')
+tensor(-0.1356, device='cuda:0')
+tensor(-0.1280, device='cuda:0')
+tensor(-0.1247, device='cuda:0')
+tensor(-0.1115, device='cuda:0')
+tensor(-0.1319, device='cuda:0')
+tensor(-0.1063, device='cuda:0')
+tensor(-0.1177, device='cuda:0')
+tensor(-0.1186, device='cuda:0')
+tensor(-0.1057, device='cuda:0')
+tensor(-0.1073, device='cuda:0')
+tensor(-0.1183, device='cuda:0')
+tensor(-0.1427, device='cuda:0')
+tensor(-0.1375, device='cuda:0')
+tensor(-0.1014, device='cuda:0')
+tensor(-0.1353, device='cuda:0')
+tensor(-0.1232, device='cuda:0')
+tensor(-0.1215, device='cuda:0')
+tensor(-0.1324, device='cuda:0')
+tensor(-0.1151, device='cuda:0')
+tensor(-0.1239, device='cuda:0')
+tensor(-0.1258, device='cuda:0')
+tensor(-0.1132, device='cuda:0')
+tensor(-0.1244, device='cuda:0')
+tensor(-0.1190, device='cuda:0')
+tensor(-0.1131, device='cuda:0')
+tensor(-0.1106, device='cuda:0')
+tensor(-0.1344, device='cuda:0')
+tensor(-0.1072, device='cuda:0')
+tensor(-0.1214, device='cuda:0')
+Test metrics:
+-0.029888046156499804 0.0 0.0 0.0 0.0 0.0 2 -0.1954558452789726 0.1655677991224728
+Done!

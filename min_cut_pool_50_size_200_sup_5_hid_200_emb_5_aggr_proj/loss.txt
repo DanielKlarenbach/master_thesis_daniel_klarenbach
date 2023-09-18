@@ -1,0 +1,24 @@
+Started preprocessing dataset
+Number of training samples: 2040
+Number of validation samples: 582
+Number of testing samples: 291
+Using cuda device
+Model loaded
+tensor(0.0861, device='cuda:0')
+tensor(0.0812, device='cuda:0')
+tensor(0.0736, device='cuda:0')
+tensor(0.0880, device='cuda:0')
+tensor(0.0876, device='cuda:0')
+tensor(0.0747, device='cuda:0')
+tensor(0.0858, device='cuda:0')
+tensor(0.0679, device='cuda:0')
+tensor(0.0848, device='cuda:0')
+tensor(0.0749, device='cuda:0')
+Test metrics:
+0.08101646760894671 0.0 0.0 0.0 0.0 0.0 2 -0.7346021164323866 0.8156185840413332
+Inference time: 0.004113902750703478 seconds
+Relabeled undersegmentation error: 0.0851683848797251
+Relabeled inter-cluster variation: 0.039658124384328766
+Relabeled mean superpixels count: 442.7079037800687
+Original mean superpixels count: 171.96563573883162
+Done!
